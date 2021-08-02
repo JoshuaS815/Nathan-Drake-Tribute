@@ -1,0 +1,19 @@
+
+#image  {
+    max-width: 100%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+    }
+
+#tribute-link {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#title {
+    font-family: 'STIX Two Text', serif;
+}
